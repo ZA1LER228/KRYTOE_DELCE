@@ -274,8 +274,7 @@ git push -u origin main
 <img width="585" height="60" alt="image" src="https://github.com/user-attachments/assets/9c6a2856-10f9-41e1-9cd7-e4ad64ae2beb" />
 <img width="1043" height="432" alt="image" src="https://github.com/user-attachments/assets/becc3794-890a-486b-a758-10502271bd10" />
 <img width="567" height="150" alt="image" src="https://github.com/user-attachments/assets/ed117cc2-ebf4-4e38-9913-8126687d48d5" />
-<img width="582" height="352" alt="image" src="https://github.com/user-attachments/assets/3400a6cd-c0c7-4655-b5fe-9bcc76829896" />
-<img width="945" height="241" alt="image" src="https://github.com/user-attachments/assets/59d27e12-98a7-427b-9e8b-e195cf2f4579" />
+<img width="715" height="408" alt="image" src="https://github.com/user-attachments/assets/1ebf6e0f-460d-487d-8d0a-4d86b66a42dd" />
 <img width="1051" height="565" alt="image" src="https://github.com/user-attachments/assets/e1317bf7-df35-4c06-b85a-c29468883db5" />
 <img width="787" height="468" alt="image" src="https://github.com/user-attachments/assets/a7b5123d-c9a9-46ec-ac29-6aece8710250" />
 <img width="983" height="224" alt="image" src="https://github.com/user-attachments/assets/a15d806d-9201-4c24-938f-f72db60774b4" />
