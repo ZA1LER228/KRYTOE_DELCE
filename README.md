@@ -1,0 +1,1 @@
+# KRYTOE_DELCE
