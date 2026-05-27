@@ -257,30 +257,3 @@ git push -u origin main
 
 
 4. **Makefile**: автоматизирует сборку, позволяет пересобирать только изменившиеся модули.
-
-# Лабораторная 2
-<img width="801" height="301" alt="image" src="https://github.com/user-attachments/assets/3b69fe29-7317-4189-8447-ce5862e9c8f9" />
-<img width="796" height="315" alt="image" src="https://github.com/user-attachments/assets/da63db7c-90cc-4595-8c9b-ef408e6a7233" />
-<img width="793" height="645" alt="image" src="https://github.com/user-attachments/assets/2e78e17c-c791-4661-8c6a-594c843470bc" />
-<img width="878" height="673" alt="image" src="https://github.com/user-attachments/assets/9a4e213c-94de-48a8-b1aa-9bf8537adc35" />
-<img width="536" height="800" alt="image" src="https://github.com/user-attachments/assets/d147b1d1-33d6-46fe-9d93-2cc6449053fb" />
-<img width="839" height="524" alt="image" src="https://github.com/user-attachments/assets/21c32904-d328-405c-98dc-3c3a560fea8e" />
-<img width="504" height="806" alt="image" src="https://github.com/user-attachments/assets/4e7b8ba6-2b78-46f1-8ba3-0f91e5494e40" />
-<img width="579" height="192" alt="image" src="https://github.com/user-attachments/assets/9d38a66a-2d1c-4e7a-a935-a0f6b9c9d567" />
-<img width="620" height="297" alt="image" src="https://github.com/user-attachments/assets/4341cf54-6bb9-4c8b-9eb4-ebb763ceed3f" />
-<img width="831" height="218" alt="image" src="https://github.com/user-attachments/assets/da050abb-d8ac-4108-9fbf-5afcb4918e0b" />
-<img width="1046" height="592" alt="image" src="https://github.com/user-attachments/assets/c7889a4a-f412-4cc0-b0f7-9f3bd6a09e67" />
-<img width="806" height="235" alt="image" src="https://github.com/user-attachments/assets/571c9229-9ff1-4c2d-afaf-a78df83f5376" />
-<img width="585" height="60" alt="image" src="https://github.com/user-attachments/assets/9c6a2856-10f9-41e1-9cd7-e4ad64ae2beb" />
-<img width="1043" height="432" alt="image" src="https://github.com/user-attachments/assets/becc3794-890a-486b-a758-10502271bd10" />
-<img width="567" height="150" alt="image" src="https://github.com/user-attachments/assets/ed117cc2-ebf4-4e38-9913-8126687d48d5" />
-<img width="715" height="408" alt="image" src="https://github.com/user-attachments/assets/1ebf6e0f-460d-487d-8d0a-4d86b66a42dd" />
-<img width="1051" height="565" alt="image" src="https://github.com/user-attachments/assets/e1317bf7-df35-4c06-b85a-c29468883db5" />
-<img width="787" height="468" alt="image" src="https://github.com/user-attachments/assets/a7b5123d-c9a9-46ec-ac29-6aece8710250" />
-<img width="983" height="224" alt="image" src="https://github.com/user-attachments/assets/a15d806d-9201-4c24-938f-f72db60774b4" />
-<img width="487" height="120" alt="image" src="https://github.com/user-attachments/assets/babf7760-cd13-4e1e-b753-8660b2a5167b" />
-<img width="759" height="128" alt="image" src="https://github.com/user-attachments/assets/3ec2d0ba-76a2-4f18-bd07-93d0374126fc" />
-<img width="915" height="158" alt="image" src="https://github.com/user-attachments/assets/3fbfb347-0a0b-4c63-bd32-60e985d6c612" />
-<img width="308" height="63" alt="image" src="https://github.com/user-attachments/assets/957c4a0b-d4db-4b23-8821-fc992f63ad88" />
-
-
